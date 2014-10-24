@@ -4,23 +4,23 @@
 <dict>
 	<key>Nodes</key>
 	<array>
-		<string>libopencv_calib3d.2.4.9.dylib</string>
-		<string>libopencv_contrib.2.4.9.dylib</string>
-		<string>libopencv_core.2.4.9.dylib</string>
-		<string>libopencv_features2d.2.4.9.dylib</string>
-		<string>libopencv_flann.2.4.9.dylib</string>
-		<string>libopencv_gpu.2.4.9.dylib</string>
-		<string>libopencv_highgui.2.4.9.dylib</string>
-		<string>libopencv_imgproc.2.4.9.dylib</string>
-		<string>libopencv_legacy.2.4.9.dylib</string>
-		<string>libopencv_ml.2.4.9.dylib</string>
-		<string>libopencv_nonfree.2.4.9.dylib</string>
-		<string>libopencv_objdetect.2.4.9.dylib</string>
-		<string>libopencv_photo.2.4.9.dylib</string>
-		<string>libopencv_stitching.2.4.9.dylib</string>
-		<string>libopencv_superres.2.4.9.dylib</string>
-		<string>libopencv_video.2.4.9.dylib</string>
-		<string>libopencv_videostab.2.4.9.dylib</string>
+		<string>libopencv_calib3d.2.4.10.dylib</string>
+		<string>libopencv_contrib.2.4.10.dylib</string>
+		<string>libopencv_core.2.4.10.dylib</string>
+		<string>libopencv_features2d.2.4.10.dylib</string>
+		<string>libopencv_flann.2.4.10.dylib</string>
+		<string>libopencv_gpu.2.4.10.dylib</string>
+		<string>libopencv_highgui.2.4.10.dylib</string>
+		<string>libopencv_imgproc.2.4.10.dylib</string>
+		<string>libopencv_legacy.2.4.10.dylib</string>
+		<string>libopencv_ml.2.4.10.dylib</string>
+		<string>libopencv_nonfree.2.4.10.dylib</string>
+		<string>libopencv_objdetect.2.4.10.dylib</string>
+		<string>libopencv_photo.2.4.10.dylib</string>
+		<string>libopencv_stitching.2.4.10.dylib</string>
+		<string>libopencv_superres.2.4.10.dylib</string>
+		<string>libopencv_video.2.4.10.dylib</string>
+		<string>libopencv_videostab.2.4.10.dylib</string>
 		<string>libopenjpeg.1.dylib</string>
 	</array>
 	<key>Kind</key>
