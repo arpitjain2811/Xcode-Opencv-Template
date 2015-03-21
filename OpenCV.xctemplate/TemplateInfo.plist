@@ -4,23 +4,23 @@
 <dict>
 	<key>Nodes</key>
 	<array>
-		<string>libopencv_calib3d.2.4.10.dylib</string>
-		<string>libopencv_contrib.2.4.10.dylib</string>
-		<string>libopencv_core.2.4.10.dylib</string>
-		<string>libopencv_features2d.2.4.10.dylib</string>
-		<string>libopencv_flann.2.4.10.dylib</string>
-		<string>libopencv_gpu.2.4.10.dylib</string>
-		<string>libopencv_highgui.2.4.10.dylib</string>
-		<string>libopencv_imgproc.2.4.10.dylib</string>
-		<string>libopencv_legacy.2.4.10.dylib</string>
-		<string>libopencv_ml.2.4.10.dylib</string>
-		<string>libopencv_nonfree.2.4.10.dylib</string>
-		<string>libopencv_objdetect.2.4.10.dylib</string>
-		<string>libopencv_photo.2.4.10.dylib</string>
-		<string>libopencv_stitching.2.4.10.dylib</string>
-		<string>libopencv_superres.2.4.10.dylib</string>
-		<string>libopencv_video.2.4.10.dylib</string>
-		<string>libopencv_videostab.2.4.10.dylib</string>
+		<string>libopencv_calib3d.2.4.11.dylib</string>
+		<string>libopencv_contrib.2.4.11.dylib</string>
+		<string>libopencv_core.2.4.11.dylib</string>
+		<string>libopencv_features2d.2.4.11.dylib</string>
+		<string>libopencv_flann.2.4.11.dylib</string>
+		<string>libopencv_gpu.2.4.11.dylib</string>
+		<string>libopencv_highgui.2.4.11.dylib</string>
+		<string>libopencv_imgproc.2.4.11.dylib</string>
+		<string>libopencv_legacy.2.4.11.dylib</string>
+		<string>libopencv_ml.2.4.11.dylib</string>
+		<string>libopencv_nonfree.2.4.11.dylib</string>
+		<string>libopencv_objdetect.2.4.11.dylib</string>
+		<string>libopencv_photo.2.4.11.dylib</string>
+		<string>libopencv_stitching.2.4.11.dylib</string>
+		<string>libopencv_superres.2.4.11.dylib</string>
+		<string>libopencv_video.2.4.11.dylib</string>
+		<string>libopencv_videostab.2.4.11.dylib</string>
 		<string>libopenjpeg.1.dylib</string>
 	</array>
 	<key>Kind</key>
@@ -111,122 +111,122 @@
 	</array>
 	<key>Definitions</key>
 	<dict>
-		<key>libopencv_calib3d.2.4.10.dylib</key>
+		<key>libopencv_calib3d.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_calib3d.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_calib3d.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_contrib.2.4.10.dylib</key>
+		<key>libopencv_contrib.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_contrib.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_contrib.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_core.2.4.10.dylib</key>
+		<key>libopencv_core.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_core.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_core.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_features2d.2.4.10.dylib</key>
+		<key>libopencv_features2d.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_features2d.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_features2d.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_flann.2.4.10.dylib</key>
+		<key>libopencv_flann.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_flann.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_flann.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_gpu.2.4.10.dylib</key>
+		<key>libopencv_gpu.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_gpu.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_gpu.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_highgui.2.4.10.dylib</key>
+		<key>libopencv_highgui.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_highgui.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_highgui.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_imgproc.2.4.10.dylib</key>
+		<key>libopencv_imgproc.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_imgproc.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_imgproc.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_legacy.2.4.10.dylib</key>
+		<key>libopencv_legacy.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_legacy.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_legacy.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_ml.2.4.10.dylib</key>
+		<key>libopencv_ml.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_ml.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_ml.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_nonfree.2.4.10.dylib</key>
+		<key>libopencv_nonfree.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_nonfree.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_nonfree.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_objdetect.2.4.10.dylib</key>
+		<key>libopencv_objdetect.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_objdetect.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_objdetect.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_photo.2.4.10.dylib</key>
+		<key>libopencv_photo.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_photo.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_photo.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_stitching.2.4.10.dylib</key>
+		<key>libopencv_stitching.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_stitching.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_stitching.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_superres.2.4.10.dylib</key>
+		<key>libopencv_superres.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_superres.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_superres.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_video.2.4.10.dylib</key>
+		<key>libopencv_video.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_video.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_video.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
-		<key>libopencv_videostab.2.4.10.dylib</key>
+		<key>libopencv_videostab.2.4.11.dylib</key>
 		<dict>
 			<key>Path</key>
-			<string>/opt/local/lib/libopencv_videostab.2.4.10.dylib</string>
+			<string>/opt/local/lib/libopencv_videostab.2.4.11.dylib</string>
 			<key>Group</key>
 			<string>OpenCV_Framework</string>
 		</dict>
